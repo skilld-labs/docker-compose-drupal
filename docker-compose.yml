@@ -2,7 +2,7 @@
 web:
   # Build the image off of Dockie
   # https://github.com/robloach/dockie
-  image: dockie/dockie
+  image: dockie/drupal
   # Environment variables
   environment:
     # Drupal settings
